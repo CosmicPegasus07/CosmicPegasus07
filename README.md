@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmicPegasus07
+- 👋 Hi, I’m Mohammed Afeef Hussain
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Science from Coursera
 - 💞️ I’m looking to collaborate on Anything
