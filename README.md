@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Afeef Hussain
+- 👋 Hi, I’m Cosmic
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently pursuing M.tech at R.V. College of Engineering, Banglore
 - 💞️ I’m looking to collaborate on Data Science Projects
