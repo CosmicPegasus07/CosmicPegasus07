@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Afeef Hussain
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently pursuing B.E at M.V.J College of Engineering, Banglore
+- 🌱 I’m currently pursuing M.tech at R.V. College of Engineering, Banglore
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me 
 *LinkdIn url :- www.linkedin.com/in/cosmicpegasus07
